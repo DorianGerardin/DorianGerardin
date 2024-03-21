@@ -7,7 +7,7 @@ interactive application at Faculty of Science in Montpellier, France.
 
 ### Gameplay Programmer
  Currently looking for a Gameplay Programmer position to contribute to exciting projects.
- If you are interested, you can check my [itch.io page](https://dorian-grdn.itch.io/) where I put all my games projects.
+ If you are interested, you can check my [portfolio](https://apps.mrdo.fr/) where I put all my apps / game projects.
 
 ### Unreal Engine 5
 I’m currently learning Unreal Engine 5 with C++; developing an action-RPG game. I am following the Unreal Engine 5 C++ Ultimate Game Developer Course by [Stephen Ulibarri](https://www.udemy.com/user/stephen-ulibarri-3/) on Udemy. It's really focused on C++ programming. Anything we do in blueprints, we then do with C++.
