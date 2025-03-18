@@ -20,5 +20,4 @@ I made my graduation internship at an independent video game studio in New York 
 ## About
 - 🔭 I’m currently working at INRAE as a software engineer.
 - 🌱 I’m currently learning Unreal Engine 5 with C++.
-- 👯 I’m looking to collaborate on any videogame project you might have.
 - 📫 How to reach me: Send me a private message on my [Linkedin](https://www.linkedin.com/in/dorian-gerardin/)
